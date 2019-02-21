@@ -1,2 +1,0 @@
-# WeightConverterJS
-Created with CodeSandbox
